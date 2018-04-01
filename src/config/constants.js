@@ -54,9 +54,9 @@ module.exports = function() {
 				'database' : 'dellstore2'
 			},
 			'development' : {
-				'host' : 'dellstore2.cgffdp2lclff.us-west-2.rds.amazonaws.com',
-				'user' : 'spidertutorial',
-				'password' : 'spidertutorial',
+				'host' : 'tetratutorials-postgres.cqgw4bi4i2b6.ap-southeast-1.rds.amazonaws.com',
+				'user' : 'tetratutorials',
+				'password' : 'password',
 				'database' : 'dellstore2'
 			}
 		};
